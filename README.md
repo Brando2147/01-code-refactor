@@ -23,10 +23,9 @@ Optimized for search engines
 Long term sustainability
 
 
-![alt text] (https://github.com/Brando2147/01-code-refactor/tree/main/assets/images/ReadMeImg.png)
 
 ![](/images/ReadMeImg.png)
-![Alt Text](https://github.com/Kammielatay/01-code-refactor/blob/main/assets/images/index.html.png)
+![alt text](https://github.com/Brando2147/01-code-refactor/tree/main/assets/images/ReadMeImg.png)
 
 [Link to Github](https://github.com/Brando2147/01-code-refactor)
 
