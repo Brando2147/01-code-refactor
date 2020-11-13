@@ -25,7 +25,7 @@ Long term sustainability
 
 
 ![](/assets/images/ReadMeImg.png)
-![alt text](https://github.com/Brando2147/01-code-refactor/tree/main/assets/images/ReadMeImg.png)
+![Alt Text](https://github.com/Brando2147/01-code-refactor/tree/main/assets/images/ReadMeImg.png)
 
 Link to Github (https://github.com/Brando2147/01-code-refactor) 
 
