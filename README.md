@@ -18,9 +18,9 @@ Fixed broken nav link
 
 # Benefits 
 
-Meet accessibility standards
-Optimized for search engines
-Long term sustainability
+- Meet accessibility standards
+- Optimized for search engines
+- Long term sustainability
 
 
 
