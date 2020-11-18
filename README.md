@@ -26,8 +26,8 @@ Long term sustainability
 
 ![](/assets/images/ReadMeImg.png)
 
-[Github]: (https://github.com/Brando2147/01-code-refactor) 
-[Horiseon site]: (https://brando2147.github.io/01-code-refactor)
+[Github] (https://github.com/Brando2147/01-code-refactor) 
+[Repo] (https://brando2147.github.io/01-code-refactor)
 
 
 
